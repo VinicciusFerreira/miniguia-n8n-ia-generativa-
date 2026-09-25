@@ -23,8 +23,37 @@ O tema escolhido foi Automação de Processos utilizando n8n e Inteligência Art
 
 ## Miniguia de estudo
 
+## Curadoria de fontes
+
+### 1. Documentação oficial do n8n
+https://docs.n8n.io/
+
+Fonte principal para estudar workflows, nodes, integrações e funcionamento da plataforma.
+
+### 2. Webhook node
+https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook/
+
+Utilizada para entender como sistemas externos podem iniciar workflows no n8n.
+
+### 3. HTTP Request node
+https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/
+
+Utilizada para estudar consumo de APIs REST e comunicação com serviços externos.
+
+### 4. Expressões no n8n
+https://docs.n8n.io/code/expressions/
+
+Fonte utilizada para estudar acesso e manipulação de dados entre nodes.
+
+### 5. Inteligência Artificial no n8n
+https://docs.n8n.io/advanced-ai/
+
+Utilizada para estudar integrações com modelos de IA e criação de fluxos inteligentes.
+
 ## Glossário
 
 ## Prompts reutilizáveis
 
 ## Conclusão
+
+## Curadoria de fontes
