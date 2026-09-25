@@ -6,8 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de 
 
 O tema escolhido foi Automação de Processos utilizando n8n e Inteligência Artificial Generativa.
 
-
-## Objetivos
+## Objetivos de estudo
 
 - Aprender os principais conceitos do n8n;
 - Entender APIs REST;
@@ -15,3 +14,17 @@ O tema escolhido foi Automação de Processos utilizando n8n e Inteligência Art
 - Trabalhar com JSON;
 - Aprender integrações com Inteligência Artificial;
 - Desenvolver técnicas de troubleshooting.
+
+## Curadoria de fontes
+
+## Engenharia de prompts
+
+## Cicatrizes e troubleshooting
+
+## Miniguia de estudo
+
+## Glossário
+
+## Prompts reutilizáveis
+
+## Conclusão
