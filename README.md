@@ -6,6 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de 
 
 O tema escolhido foi Automação de Processos utilizando n8n e Inteligência Artificial Generativa.
 
+
 ## Objetivos
 
 - Aprender os principais conceitos do n8n;
