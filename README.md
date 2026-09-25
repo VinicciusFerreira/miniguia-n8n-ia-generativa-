@@ -57,3 +57,48 @@ Utilizada para estudar integrações com modelos de IA e criação de fluxos int
 ## Conclusão
 
 ## Curadoria de fontes
+
+## Engenharia de prompts
+
+### Prompt 1 — Conceitos básicos do n8n
+
+**Prompt utilizado:**
+
+> Explique os principais conceitos do n8n para alguém que está começando em automação. Organize a resposta em:
+> 1. O que é n8n
+> 2. O que é workflow
+> 3. O que são nodes
+> 4. O que são triggers
+> 5. Como APIs e Webhooks entram nesse processo
+> 6. Um exemplo prático simples
+
+### Resultado obtido
+
+A resposta conseguiu explicar de forma organizada os principais conceitos do n8n, incluindo workflows, nodes, triggers, APIs e Webhooks.
+
+O exemplo de cadastro de cliente ajudou a visualizar como esses elementos podem funcionar juntos em uma automação real.
+
+### Pontos positivos
+
+- Resposta bem estruturada;
+- Conceitos apresentados em ordem lógica;
+- Uso de exemplos práticos;
+- Relação clara entre Webhook, HTTP Request e API;
+- Linguagem adequada para iniciantes.
+
+### Limitações encontradas
+
+Apesar de explicar bem os conceitos, a resposta ficou mais teórica do que prática em alguns pontos.
+
+Por exemplo, não mostrou:
+- como os dados chegam em formato JSON;
+- como acessar esses dados dentro do n8n;
+- como utilizar expressões;
+- como testar o workflow;
+- como identificar erros durante a execução.
+
+### Próxima melhoria do prompt
+
+Para obter uma resposta mais prática, o próximo prompt será:
+
+> Crie um exemplo completo de workflow no n8n utilizando Webhook, IF e HTTP Request. Mostre também um JSON de entrada, as expressões utilizadas para acessar os dados e explique o fluxo passo a passo.
